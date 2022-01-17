@@ -45,7 +45,7 @@ mvn -v
 Create a POM file in the Apache Maven directory
 > C:\apache-maven-3.8.2\bin
 
-See attached POM for example.
+See [attached POM](https://github.com/w4dd325/JJWT_JMeter/blob/main/pom.xml) for example.
 
 ---
 
