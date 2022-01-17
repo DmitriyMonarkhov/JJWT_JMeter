@@ -74,6 +74,6 @@ Add JSR223 Sampler to your Test Plan and put your Groovy code using the jjwt lib
 
 Use the info from the [JJWT GitHub Page](https://github.com/jwtk/jjwt) to build your script;
 
-See attached JMX for example - Note some information redacted (and replaced with descriptive comment) for security reasons.
+See [attached JMX](https://github.com/w4dd325/JJWT_JMeter/blob/main/jjwt_example.jmx) for example - Note some information redacted (and replaced with descriptive comment) for security reasons.
 
 More information on JWT 'claims' can be found [here](https://docs.microsoft.com/en-us/azure/active-directory/develop/id-tokens).
