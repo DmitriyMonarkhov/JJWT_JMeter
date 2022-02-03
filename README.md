@@ -77,5 +77,3 @@ Use the info from the [JJWT GitHub Page](https://github.com/jwtk/jjwt) to build 
 See [attached JMX](https://github.com/w4dd325/JJWT_JMeter/blob/main/jjwt_example.jmx) for example - Note some information redacted (and replaced with descriptive comment) for security reasons.
 
 More information on JWT 'claims' can be found [here](https://docs.microsoft.com/en-us/azure/active-directory/develop/id-tokens).
-
-example
